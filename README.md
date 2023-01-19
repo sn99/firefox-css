@@ -5,6 +5,7 @@ My Firefox 🦊 browser configuration
 After each distro reset or Firefox installation, I make a few changes to improve the quality of life while keeping Firefox as vanilla as possible. These include:
 
 - Keeping the `Close Tab` button available, even when multiple tabs are open
+- Put `Reload Tab` at top instead of `Close Tab`
 - Adding a line between different tabs to separate them
 - Removing the space below tabs
 - Adding icons to the `application menu`
